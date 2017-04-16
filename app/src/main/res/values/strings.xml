@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">SortingHat</string>
+
+    <string name="question_1">1. How would your friends describe you?</string>
+    <string name="question_2">2. What animal best represents you?</string>
+    <string name="question_3">3. When you grow up, you want to be:</string>
+    <string name="question_4">4. What is/was your favorite subject at school?:</string>
+    <string name="question_5">5. What\'s your favorite color:</string>
+    <string name="question_6">6. One of your teachers says that your best friend cheated at the exam and faces serios punishment. Your friend claims that they are inocent, and ask for your help. What do you do?</string>
+    <string name="question_7">7. You are given a very hard assignment by your teacher. How do you proceed? "</string>
+
+    <string name="answer_1_1">Cunning, sly, charismatic</string>
+    <string name="answer_1_2">Bold, brave, daring</string>
+    <string name="answer_1_3">Friendly, fair, loyal</string>
+    <string name="answer_1_4">Smart, ambitious, competitive</string>
+
+    <string name="answer_2_1">A wolf</string>
+    <string name="answer_2_2">A bear</string>
+    <string name="answer_2_3">An owl</string>
+    <string name="answer_2_4">A lizard</string>
+
+    <string name="answer_3_1">A policeman/policewoman</string>
+    <string name="answer_3_2">An engineer</string>
+    <string name="answer_3_3">CEO</string>
+    <string name="answer_3_4">A doctor</string>
+
+    <string name="answer_4_1">Math</string>
+    <string name="answer_4_2">Biology</string>
+    <string name="answer_4_3">Chemistry</string>
+    <string name="answer_4_4">Sports</string>
+
+    <string name="answer_5_1">Blue</string>
+    <string name="answer_5_2">Green</string>
+    <string name="answer_5_3">Yellow</string>
+    <string name="answer_5_4">Red</string>
+
+    <string name="answer_6_1">Go to the teacher at once and demand from them to leave your friend alone, because he/she is innocent.</string>
+    <string name="answer_6_2">Talk to your parents. They are quite influential and they will be able to persuade the teacher to forget about the incident.</string>
+    <string name="answer_6_3">Offer your friend a shoulder to cry on and some reasonable advice to help them deal with the situation.</string>
+    <string name="answer_6_4">You consult the school rules carefully, find a clause that says the punishment is too harsh for the incident and present it to your teacher</string>
+
+    <string name="answer_7_1">Lock yourself in the library until you get what you have to do, a draft of what you have to write and a solid documentation</string>
+    <string name="answer_7_2">Ask your parents to present to you some of their friends that work in that field of interest and obtain indications from them.</string>
+    <string name="answer_7_3">You are relaxed, work at your own pace, confident that you will make it in the end.</string>
+    <string name="answer_7_4">Form a team with your best friends and work steadily until you achieve your goal together.</string>
+
+    <string name="gryffindor"> you are a Gryffindor!</string>
+    <string name="ravenclaw"> you are a Ravenclaw!</string>
+    <string name="hufflepuff"> you are a Hufflepuff!</string>
+    <string name="slytherin"> you are a Slytherin!</string>
+    <string name="stale"> you are a Stalemate!</string>
+
+    <string name="gryffindor_des">The Gryffindor house emphasises the traits of courage as well as "daring, nerve, and chivalry," and thus its members are generally regarded as brave, though sometimes to the point of recklessness. They can also be short-tempered. Some feel that Gryffindors engage in "pointless heroics",  while others consider Gryffindors to be self-righteous and arrogant, with no regard for rules.</string>
+    <string name="ravenclaw_des">Ravenclaw House prizes learning, wisdom, wit, and intellect in its members. Thus, many Ravenclaws tend to be academically motivated and talented students. Ravenclaws also pride themselves in being original in their ideas, and methods. They can also be quirky and possess unusual intellectual interests. Ravenclaws usually accept and celebrate these eccentrics. </string>
+    <string name="hufflepuff_des">Students belonging to this house are known to be hard-working, friendly, loyal, honest and rather impartial. It may be that due to their values, Hufflepuffs are not as competitive as the other houses, and are more modest about their accomplishments. Hufflepuff is the most inclusive among the four houses; valuing hard work, dedication, patience, loyalty, and fair play rather than a particular aptitude in its students. </string>
+    <string name="slytherin_des">Slytherins tend to be ambitious, shrewd, cunning, strong leaders, and achievement-oriented. They also have highly developed senses of self-preservation. This means that Slytherins tend to hesitate before acting, so as to weigh all possible outcomes before deciding exactly what should be done. They are also known for their cleverness, resourcefulness, determination, and a certain disregard for the rules.</string>
+    <string name="stale_des">Your personality is very complex and the Sorting Hat needs a lot of time to decide where you belong. </string>
+</resources>
